@@ -1,6 +1,6 @@
 [CmdletBinding()]
 param(
-    [string]$Old = "WebFormsStarter",
+    [string]$Old = "MyApp",
 
     [Parameter(Mandatory=$true)]
     [string]$New,
